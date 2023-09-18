@@ -1,0 +1,15 @@
+/home/Ame/Code/C#/10Task2/10Task2/bin/Debug/net7.0/10Task2
+/home/Ame/Code/C#/10Task2/10Task2/bin/Debug/net7.0/10Task2.deps.json
+/home/Ame/Code/C#/10Task2/10Task2/bin/Debug/net7.0/10Task2.runtimeconfig.json
+/home/Ame/Code/C#/10Task2/10Task2/bin/Debug/net7.0/10Task2.dll
+/home/Ame/Code/C#/10Task2/10Task2/bin/Debug/net7.0/10Task2.pdb
+/home/Ame/Code/C#/10Task2/10Task2/obj/Debug/net7.0/10Task2.csproj.AssemblyReference.cache
+/home/Ame/Code/C#/10Task2/10Task2/obj/Debug/net7.0/10Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/Ame/Code/C#/10Task2/10Task2/obj/Debug/net7.0/10Task2.AssemblyInfoInputs.cache
+/home/Ame/Code/C#/10Task2/10Task2/obj/Debug/net7.0/10Task2.AssemblyInfo.cs
+/home/Ame/Code/C#/10Task2/10Task2/obj/Debug/net7.0/10Task2.csproj.CoreCompileInputs.cache
+/home/Ame/Code/C#/10Task2/10Task2/obj/Debug/net7.0/10Task2.dll
+/home/Ame/Code/C#/10Task2/10Task2/obj/Debug/net7.0/refint/10Task2.dll
+/home/Ame/Code/C#/10Task2/10Task2/obj/Debug/net7.0/10Task2.pdb
+/home/Ame/Code/C#/10Task2/10Task2/obj/Debug/net7.0/10Task2.genruntimeconfig.cache
+/home/Ame/Code/C#/10Task2/10Task2/obj/Debug/net7.0/ref/10Task2.dll

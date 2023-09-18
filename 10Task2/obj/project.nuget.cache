@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qi0vTvS5VzxWO/9EvYyrfbkfaYSYJ15N7lJ1uSTOCQYLMjQPY7lY2CBwRcllG0iLCAjhJrMMHHUuByZLXtpzeQ==",
+  "success": true,
+  "projectFilePath": "/home/Ame/Code/C#/10Task2/10Task2/10Task2.csproj",
+  "expectedPackageFiles": [
+    "/home/Ame/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
